@@ -1,0 +1,80 @@
+# C/C++ build artifacts
+
+# Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.a
+*.lib
+*.la
+*.lai
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+*.bin
+a.out
+
+# Debug / symbol files
+*.dSYM/
+*.pdb
+*.ilk
+*.idb
+*.su
+
+# Dependency files
+*.d
+*.dep
+
+# Coverage
+*.gcda
+*.gcno
+*.gcov
+
+# Build directories
+build/
+Build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# IDE / editor files
+.vs/
+.vscode/
+.idea/
+Debug/
+Release/
+x64/
+x86/
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.db
+*.ipch
+xcuserdata/
+DerivedData/
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+*.swp
