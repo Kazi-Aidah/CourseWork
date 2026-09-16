@@ -20,3 +20,10 @@ int main() {
 
     return 0;
 }
+
+
+/* alternative reversel technique:
+    for(int i = 0; i <= n; i++) {
+        cout << s[n - i];
+    }
+*/
