@@ -12,9 +12,9 @@ int main() {
     cin >> marks;
 
     if (marks >= 40) {
-        cout << "You have \033[32mpassed\033[0m." << endl; // colored green, "\033[32"
+        cout << "You have \033[32mpassed\033[0m." << endl; // green
     } else {
-        cout << "You have \033[31mfailed\033[0m." << endl; // colored red, "\033[31"
+        cout << "You have \033[31mfailed\033[0m." << endl; // red
     }
 
     return 0;

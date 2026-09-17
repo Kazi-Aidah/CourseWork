@@ -1,10 +1,18 @@
-# C Programs  
-This repo holds my University Course Assignments and personal C practice codes.
+# CourseWork
+This repo holds my <span style="color: #de7c27;">University Course Assignments</span> and <span style="color: #c3478f;">personal C practice codes</span>.
 
 ***
 
-**IDEs:** CodeBlocks (PC), VSCodium (PC), CxStudio (Android)
-<img src="CxStudio.jpg">
+<h3 style="color: #d14597;"><strong>Preferred IDEs:</strong></h3>
+
+- [Lite-xl](https://github.com/lite-xl/lite-xl)
+<img src="assets/lite-xl.png">
+
+- [VSCodium](https://github.com/vscodium/vscodium)
+<img src="assets/visual-studio-code.png">
+
+- CxStudio (Android)
+<img src="assets/CxStudio.jpg">
 
 ***
 
