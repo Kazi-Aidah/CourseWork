@@ -1,9 +1,27 @@
-DECISION-MAKING PROGRAMS
-41. Write a C program to calculate income tax based on salary.
-42. Write a C program to check admission eligibility based on marks.
-43. Write a C program to create a simple calculator using switch-case.
-44. Write a C program to display the day of the week using switch-case.
-45. Write a C program to display the month name using switch-case.
-46. Write a C program to display the number of days in a month using switch-case.
-47. Write a C program to check whether a character is a vowel using switch-case.
-48. Write a C program to convert a digit into its word using switch-case.
+LOOP PROGRAMS
+49. Write a C program to print numbers from 1 to N.
+50. Write a C program to print numbers from N to 1.
+51. Write a C program to print all even numbers from 1 to N.
+52. Write a C program to print all odd numbers from 1 to N.
+53. Write a C program to print the multiplication table of a number.
+54. Write a C program to find the sum of numbers from 1 to N.
+55. Write a C program to find the sum of all even numbers from 1 to N.
+56. Write a C program to find the sum of all odd numbers from 1 to N.
+57. Write a C program to calculate the factorial of a number.
+58. Write a C program to count the number of digits in a number.
+59. Write a C program to find the sum of digits of a number.
+60. Write a C program to find the product of digits of a number.
+61. Write a C program to reverse a number.
+62. Write a C program to check whether a number is a palindrome.
+63. Write a C program to check whether a number is prime.
+64. Write a C program to print all prime numbers from 1 to N and count number.
+65. Write a C program to generate Fibonacci series.
+66. Write a C program to find the power of a number using a loop.
+67. Write a C program to find the GCD of two numbers.
+68. Write a C program to find the LCM of two numbers.
+69. Write a C program to check whether a number is an Armstrong number.
+70. Write a C program to print Armstrong numbers within a range.
+71. Write a C program to check whether a number is a perfect number.
+72. Write a C program to print perfect numbers within a range.
+73. Write a C program to check whether a number is a strong number.
+74. Write a C program to print strong numbers within a range
