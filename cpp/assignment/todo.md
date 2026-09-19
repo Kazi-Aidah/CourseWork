@@ -1,12 +1,4 @@
 LOOP PROGRAMS
-49. Write a C program to print numbers from 1 to N.
-50. Write a C program to print numbers from N to 1.
-51. Write a C program to print all even numbers from 1 to N.
-52. Write a C program to print all odd numbers from 1 to N.
-53. Write a C program to print the multiplication table of a number.
-54. Write a C program to find the sum of numbers from 1 to N.
-55. Write a C program to find the sum of all even numbers from 1 to N.
-56. Write a C program to find the sum of all odd numbers from 1 to N.
 57. Write a C program to calculate the factorial of a number.
 58. Write a C program to count the number of digits in a number.
 59. Write a C program to find the sum of digits of a number.
