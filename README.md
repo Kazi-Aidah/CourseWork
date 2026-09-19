@@ -18,4 +18,11 @@ This repo holds my University Course Assignments and personal C practice codes.
 
 ***
 
+### Commit Message Conventions
+- `cpp:` - C++ programs
+- `c:` - C programs
+- `CW:` - Classwork
+
+***
+
 **Started learning C on:** 10 May 2026 (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
