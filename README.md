@@ -1,9 +1,11 @@
+![Total Commits](https://img.shields.io/github/commit-activity/t/Kazi-Aidah/CourseWork?style=flat-square&color=c3478f) ![Last Commit](https://img.shields.io/github/last-commit/Kazi-Aidah/CourseWork?style=flat-square&color=de7c27)
+
 # CourseWork
-This repo holds my <span style="color: #de7c27;">University Course Assignments</span> and <span style="color: #c3478f;">personal C practice codes</span>.
+This repo holds my University Course Assignments and personal C practice codes.
 
 ***
 
-<h3 style="color: #d14597;"><strong>Preferred IDEs:</strong></h3>
+### Preferred IDEs:
 
 - [Lite-xl](https://github.com/lite-xl/lite-xl)
 <img src="assets/lite-xl.png">
