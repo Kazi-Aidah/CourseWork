@@ -11,7 +11,7 @@ int main() {
 
 	cin >> n;
 
-	for (int i = 1; i <= n; i++) {
+	for(int i = 1; i <= n; i++) {
 		cout << first << " ";
 
 		int next = first + second;

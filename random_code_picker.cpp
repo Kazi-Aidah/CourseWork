@@ -64,7 +64,7 @@ int main() {
     ifstream file;
     string line;
 
-    for (const char *path : paths) {
+    for(const char *path : paths) {
         file.open(path);
         if (file.is_open()) {
             break;

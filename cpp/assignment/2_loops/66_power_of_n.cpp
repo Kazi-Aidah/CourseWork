@@ -13,7 +13,7 @@ int main() {
     cout << "Enter exponent: ";
     cin >> exponent;
 
-    for (int i = 1; i <= exponent; i++) {
+    for(int i = 1; i <= exponent; i++) {
         result *= base;
     }
 

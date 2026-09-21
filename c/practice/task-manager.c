@@ -86,7 +86,7 @@ void save_tasks() {
         return;
     }
 
-    for (int i = 0; i < task_count; i++) {
+    for(int i = 0; i < task_count; i++) {
         fprintf(f, "%d %d %s\n", statuses[i], colors[i], tasks[i]);
     }
     fclose(f);
@@ -100,7 +100,7 @@ void list_tasks() {
     }
 
     printf("\n--- Your Tasks ---\n");
-    for (int i = 0; i < task_count; i++) {
+    for(int i = 0; i < task_count; i++) {
         printf("%d. %s%s %s%s\n",
                i + 1,
                color_code[colors[i]],
@@ -130,7 +130,7 @@ void add_task() {
     if (n < 0 || n > 2) n = 0;
 
     printf("\nEnter color,\n");
-    for (int i = 0; i < COLOR_COUNT / 2; i++) {
+    for(int i = 0; i < COLOR_COUNT / 2; i++) {
         printf("%s%d = %-8s%s   %s%d = %-8s%s\n",
                color_code[i], i, color_name[i], color_code[0],
                color_code[i + 5], i + 5,
@@ -202,7 +202,7 @@ void delete_task() {
     }
 
     int write = 0;
-    for (int read = 0; read < task_count; read++) {
+    for(int read = 0; read < task_count; read++) {
         if (!delete_mask[read]) {
             statuses[write] = statuses[read];
             colors[write] = colors[read];
@@ -262,7 +262,7 @@ void edit_task() {
     if (input[0] == 'y' || input[0] == 'Y') {
         int new_color;
         printf("\nEnter color,\n");
-        for (int i = 0; i < COLOR_COUNT / 2; i++) {
+        for(int i = 0; i < COLOR_COUNT / 2; i++) {
             printf("%s%d = %-8s%s   %s%d = %-8s%s\n",
                    color_code[i], i, color_name[i], color_code[0],
                    color_code[i + 5], i + 5,

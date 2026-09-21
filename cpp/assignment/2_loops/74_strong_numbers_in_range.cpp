@@ -6,7 +6,7 @@ using namespace std;
 int factorial(int x) {
     int fact = 1;
 
-    for (int i = 1; i <= x; i++) {
+    for(int i = 1; i <= x; i++) {
         fact *= i;
     }
 
@@ -37,7 +37,7 @@ int main() {
 
     cout << "Strong numbers in the range are: " << endl;
 
-    for (int i = start; i <= end; i++) {
+    for(int i = start; i <= end; i++) {
         if (isStrong(i)) {
             cout << i << " ";
         }

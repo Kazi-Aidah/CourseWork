@@ -13,7 +13,7 @@ int main() {
     if (n < 0) {
         cout << "Please input a positive number!" << endl;
     } else {
-        for (int i = 1; i <= n; ++i) {
+        for(int i = 1; i <= n; ++i) {
             factorial *= i;
         }
         cout << "Factorial of " << n << " = " << factorial << endl;

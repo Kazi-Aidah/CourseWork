@@ -14,7 +14,7 @@ int main()
     cin >> t;
     cin.ignore();
 
-    for (int i = 0; i < t; i++)
+    for(int i = 0; i < t; i++)
     {
         cin.getline(s, 101);
 
@@ -23,7 +23,7 @@ int main()
         int n = strlen(s);
 
         // output reversed
-        for (int j = n - 1; j >= 0; --j)
+        for(int j = n - 1; j >= 0; --j)
         {
             cout << s[j];
         }

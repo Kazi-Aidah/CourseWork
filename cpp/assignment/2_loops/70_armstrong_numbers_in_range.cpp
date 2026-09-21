@@ -27,7 +27,7 @@ int main() {
 
     cout << "Armstrong numbers in the range are: " << endl;
 
-    for (int i = start; i <= end; i++) {
+    for(int i = start; i <= end; i++) {
         if (isArmstrong(i)) {
             cout << i << " ";
         }
