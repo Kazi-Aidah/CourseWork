@@ -2,8 +2,6 @@ PATTERN PROGRAMS
 78. Write a C program to print the following number pattern: ???
 
 ARRAY PROGRAMS
-90. Write a C program to count positive and negative elements in an array.
-91. Write a C program to reverse an array.
 92. Write a C program to copy one array into another array.
 93. Write a C program to merge two arrays.
 94. Write a C program to find duplicate elements in an array.
