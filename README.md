@@ -5,20 +5,17 @@ This repo holds my University Course Assignments and personal C practice codes.
 
 ***
 
-### Preferred IDEs:
+### Preferred Software:
 
-- [Lite-xl](https://github.com/lite-xl/lite-xl)
-<img src="assets/lite-xl.png">
-
-- [VSCodium](https://github.com/vscodium/vscodium)
-<img src="assets/visual-studio-code.png">
+- [Micro](https://github.com/micro-editor/MICRO)
+<img src="https://github.com/user-attachments/assets/7d0bc6e2-2a86-485f-82f2-cf6764bdbdfe" />
 
 - CxStudio (Android)
 <img src="assets/CxStudio.jpg">
 
 ***
 
-### Commit Message Conventions
+### Commit Message Conventions in this Repo
 - `cpp:` - C++ programs
 - `c:` - C programs
 - `CW:` - Classwork
